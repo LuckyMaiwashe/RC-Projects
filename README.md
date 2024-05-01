@@ -1,6 +1,9 @@
 # RC-Projects
 This will serve as a library storing all my Rosebank College Projects Failed and successful, to help track my journey in Mobile Application and Web Development.
-## MainActivity.kt for the Login Page of the Virtual pet app we werre instructed to create.
+## LInk to Video Presentation of The Virtual Pet App
+https://youtu.be/tF4n1N-Zrak
+
+### MainActivity.kt for the Login Page of the Virtual pet app we werre instructed to create.
 package com.example.trainingleo
 
 import android.os.Bundle
@@ -83,7 +86,7 @@ fun GreetingPreview() {
     }
 }
 
-### SecondActivity.kt for the Main Page of the Virtual Pet App.
+#### SecondActivity.kt for the Main Page of the Virtual Pet App.
 package com.example.trainingleo
 
 import android.os.Bundle
